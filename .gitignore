@@ -1,0 +1,4 @@
+go.sum
+html/wasm_exec.js
+html/main.wasm
+goroid
